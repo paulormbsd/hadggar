@@ -1,4 +1,4 @@
-package haddgarcli
+package main
 
 func main() {
 
