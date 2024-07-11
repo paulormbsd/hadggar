@@ -3,9 +3,9 @@
 ## Project build configuration
 ##
 ##------------------------------
-APP_NAME = project_name
+APP_NAME = haddgar
 APP_BINARY = ../bin/${APP_NAME}
-MAIN_ENTRY = ../src/app
+MAIN_ENTRY = ../cmd/haddgar
 
 ## release version of the application
 VERSION = v1.0
